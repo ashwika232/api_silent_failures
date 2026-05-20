@@ -411,8 +411,8 @@ The Autoencoder model successfully learns normal workflow behavior and identifie
 
 # Author
 
-Ashwika
-Geethika
-Diya
+-Ashwika
+-Geethika
+-Diya
 
 ---
